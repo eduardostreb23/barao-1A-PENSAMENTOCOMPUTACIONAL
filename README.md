@@ -9,3 +9,5 @@ Disciplina de **Pensamento Computacional**
 Desenvolvimento de site nas linguagens HTML e CSS
 
 Estudante: Eduardo Streb *n* *08*
+
+Estudande: Vinicius de macedo *n* *28*
