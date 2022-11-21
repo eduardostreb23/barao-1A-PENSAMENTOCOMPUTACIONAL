@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@300&display=swap');
+body {
+    font-family: 'Stick No Bills', sans-serif;
+    text-align: center;
+    background: yellow;
+}
+.capa{
+    width: 65%;
+}
+.beneficios {
+    text-align: left;
+    background-color: rgb(251, 255, 0); 
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 700px;
+}
+li{
+    padding: 25px;
+    font-size: 26px;
+}
+.foto-beneficio {
+    width: 30%;
+}
